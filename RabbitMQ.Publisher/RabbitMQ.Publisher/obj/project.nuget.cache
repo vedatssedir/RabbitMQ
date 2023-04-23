@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "h5v7slMVCKG0AguL6UThHie/CO80jOTkO1XLtwXJArNDxYgF2kcUdCUXrEk+Hj9d+zR1OhaNaHoSlYI0lV0AQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vedat\\Desktop\\repo\\RabbitMQ\\RabbitMQ.Publisher\\RabbitMQ.Publisher\\RabbitMQ.Publisher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vedat\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\Vedat\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Vedat\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
